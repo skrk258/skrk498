@@ -8,7 +8,7 @@ export default defineConfig({
     define: {
 
     },
-    base: '/',
+    base: 'skrk498',
     build: {
         rollupOptions: {
             input: {
